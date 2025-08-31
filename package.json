@@ -1,0 +1,17 @@
+{
+  "name": "tech-evangelismus-101",
+  "version": "1.0.0",
+  "description": "Ein interaktives Web-Tool, das Einsteigern hilft, die Grundlagen der Tech-Evangelismus zu verstehen und ihre eigene Leidenschaft für Technologie zu teilen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benutzername/tech-evangelismus-101.git"
+  },
+  "author": "Ihr Name",
+  "license": "MIT"
+}
