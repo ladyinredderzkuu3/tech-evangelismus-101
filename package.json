@@ -13,6 +13,6 @@
     "url": "https://github.com/benutzername/tech-evangelismus-101.git"
   },
   "author": "Ihr Name",
-  "authorEmail": "email@example.com",
+  "authorEmail": "email@example.com",  // Ensure this is a valid email format
   "license": "MIT"
 }
